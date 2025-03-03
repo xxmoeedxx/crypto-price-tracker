@@ -8,7 +8,7 @@
  ├── README.md      # Project overview and setup instructions
 ```
 
-## 🛠️ Prerequisites
+## Prerequisites
 Before starting, ensure you have the following installed:
 
 - **Node.js** (LTS version recommended) → [Download here](https://nodejs.org/)
